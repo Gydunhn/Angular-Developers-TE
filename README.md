@@ -4,8 +4,6 @@
 
 This extension pack for Visual Studio Code adds extensions that are extremely useful for Angular projects. I reserve the right to update the extensions pack contents up to my own discretion.
 
-![ ][AngularElite]
-
 ## Reasons
 
 The [Essentials Extensions for Angular Developers, T.E.] extension pack was made to automate and standardize the installation phase of the essential Angular extensions for Visual Studio Code every time a new member joins the #TeamElite, or one of them restores a laptop, or exchanges it for a new one.
@@ -31,6 +29,5 @@ This extension pack includes the following extensions:
 | Angular Essentials    | [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/johnpapa.angular-essentials.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/johnpapa.angular-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/johnpapa.angular-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)             |
 | VSC-Essentials-Themes | [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/Gydunhn.vsc-essentials-themes.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials-themes) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Gydunhn.vsc-essentials-themes.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials-themes) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/Gydunhn.vsc-essentials-themes.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials-themes) |
 
-[AngularElite]: img/angularelite.png
 [Essentials Extensions for Angular Developers]: https://marketplace.visualstudio.com/items?itemName=Gydunhn.angular-developers-std
 [Essentials Extensions for Angular Developers, T.E.]: https://marketplace.visualstudio.com/items?itemName=Gydunhn.angular-developers-te
