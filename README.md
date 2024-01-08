@@ -3,7 +3,7 @@
 [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/Gydunhn.angular-developers-te?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.angular-developers-te) [![Installs](https://flat.badgen.net/vs-marketplace/i/Gydunhn.angular-developers-te?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.angular-developers-te) [![Downloads](https://flat.badgen.net/vs-marketplace/d/Gydunhn.angular-developers-te?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.angular-developers-te)[![Rating](https://flat.badgen.net/vs-marketplace/rating/Gydunhn.angular-developers-te?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.angular-developers-te)
 
 This extension pack for Visual Studio Code adds extensions that are extremely useful for Angular projects. I reserve the right to update the extensions pack contents up to my own discretion. This extension is for our own personal use, I think it's great if it works for other people too.
- 
+
 ## Reasons
 
 The [Essentials Extensions for Angular Developers, E.T.] extension pack was made to automate and standardize the installation phase of the essential Angular extensions for Visual Studio Code every time a new member joins the #EliteTeam ([ZentaGroup](https://zentagroup.com/)), or one of them restores a laptop, or exchanges it for a new one.

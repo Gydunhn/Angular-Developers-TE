@@ -45,9 +45,6 @@
     "Debugger",
     "Firefox",
     "Debugger for Firefox",
-    "Edge",
-    "Chrome",
-    "Debugger for Chrome",
     "Essentials",
     "Read Time",
     "Sonar",
@@ -60,13 +57,13 @@
     "Team Elite",
     "EliteTeam"
   ],
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
   },
   "categories": [
-    "Extension Packs" 
+    "Extension Packs"
   ],
   "extensionPack": [
     "ktriek.ng-bootstrap-snippets",
