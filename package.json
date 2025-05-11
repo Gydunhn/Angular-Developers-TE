@@ -4,7 +4,7 @@
   "description": "The Essentials Extensions for Angular+Bootstrap Development.",
   "icon": "img/essentials.png",
   "galleryBanner": {
-    "color": "#fae7b1",
+    "color": "#212529",
     "theme": "light"
   },
   "license": "LICENSE.md",
