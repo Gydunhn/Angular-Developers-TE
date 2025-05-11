@@ -7,7 +7,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.0] - 2020-10-06
+## [1.0.0] - 2025-05-10
+
+### Changed
+
+* Rebranded from "Essentials Extensions for Angular Developers, E.T." to "Angular Bootstrap Essentials"
+* Updated focus from Team Elite (Zenta Group) to Angular+Bootstrap development
+* Completely revised extension pack contents to focus on Bootstrap integration with Angular
+
+### Added
+
+* New Bootstrap-focused extensions:
+  * Bootstrap IntelliSense, hossaini
+  * Bootstrap 5 & Font Awesome, AnbuselvanRocky
+* HTML-Essentials, Gydunhn
+* Winter is Coming Theme, John Papa
+
+### Removed
+
+* Removed extensions not directly related to Angular+Bootstrap development:
+  * Nx Console
+  * mysql-inline-decorator
+  * VSC-Essentials-Themes
+  * WebDesign-Essentials
+  * Peacock
+
+## [0.1.0] - 2024-01-08
 
 ### Added (They are added thanks to a restructuring of an extension package that belongs to this project.)
 
