@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2025-05-10
+
+### Added
+
+* Updated Background Color.
+
 ## [1.0.0] - 2025-05-10
 
 ### Changed
