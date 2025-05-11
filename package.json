@@ -4,7 +4,7 @@
   "description": "The Essentials Extensions for Angular+Bootstrap Development.",
   "icon": "img/essentials.png",
   "galleryBanner": {
-    "color": "#fae7b1",
+    "color": "#212529",
     "theme": "light"
   },
   "license": "LICENSE.md",
@@ -61,7 +61,7 @@
     "Extension Pack",
     "Gydunhn"
   ],
-  "version": "0.2.0",
+  "version": "1.0.0",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
