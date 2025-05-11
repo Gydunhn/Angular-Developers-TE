@@ -5,7 +5,7 @@
   "icon": "img/essentials.png",
   "galleryBanner": {
     "color": "#212529",
-    "theme": "light"
+    "theme": "dark"
   },
   "license": "LICENSE.md",
   "repository": {
