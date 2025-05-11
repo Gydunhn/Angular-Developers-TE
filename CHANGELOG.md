@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.0] - 2025-05-10
+## [1.0.0] - 2025-05-10
 
 ### Changed
 
@@ -55,7 +55,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack.
 
 [Unreleased]: https://github.com/Gydunhn/Angular-Developers-TE/tree/develop
-[0.2.0]: https://github.com/Gydunhn/Angular-Developers-TE/releases/tag/0.2.0
 [0.1.0]: https://github.com/Gydunhn/Angular-Developers-TE/releases/tag/0.1.0
 [0.0.2]: https://github.com/Gydunhn/Angular-Developers-TE/releases/tag/0.0.2
 [0.0.1]: https://github.com/Gydunhn/Angular-Developers-TE/releases/tag/0.0.1
